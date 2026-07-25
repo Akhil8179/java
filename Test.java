@@ -38,6 +38,5 @@ public class Test {
         mul(x, y);
         div(x, y);
         
-    System.out.println("hello world");
     }
 }
